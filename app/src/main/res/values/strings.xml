@@ -2,4 +2,6 @@
     <string name="app_name">I Am Poor</string>
     <string name="textview">I Am Poor</string>
     <string name="todo">TODO</string>
+    <string name="poor">Poor</string>
+    <string name="i_am">I Am</string>
 </resources>
